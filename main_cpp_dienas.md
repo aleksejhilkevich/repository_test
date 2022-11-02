@@ -5,6 +5,7 @@
 
 public class weeks{
             int pirmdiena;  
+
             int otrdiena; 
             
             int trešdiena
@@ -12,5 +13,9 @@ public class weeks{
             int piektdiena; 
 
             double nothing;
+
+            int otrdiena;      
+            int j;
+
 
 };
