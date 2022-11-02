@@ -2,7 +2,7 @@
  test
  tas butu pirmais file mods
  one more v
-//komentars
+//izmainja
 public class weeks{
             int pirmdiena;  
 
