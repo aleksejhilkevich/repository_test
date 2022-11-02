@@ -2,7 +2,7 @@
  test
  tas butu pirmais file mods
  one more v
-
+//komentars
 public class weeks{
             int pirmdiena;  
 
@@ -15,7 +15,8 @@ public class weeks{
             double nothing;
 
             int otrdiena;      
-            int j;
+            int a;
+            int b;
 
 
 };
